@@ -1,4 +1,4 @@
-# housing_price_prediction
+# Housing_price_prediction
 A machine learning project to predict housing prices using Python
 Welcome to the **Housing Price Prediction** project! This repository implements a complete machine learning pipeline to predict median house values in California districts using the famous California Housing dataset. Built with Python and scikit-learn, it demonstrates best practices in data preprocessing, feature engineering, model training, and evaluation. Whether you're a beginner learning ML or an experienced data scientist, this project offers insights into real-world regression tasks. 🚀
 
